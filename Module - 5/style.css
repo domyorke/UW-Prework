@@ -1,0 +1,27 @@
+
+
+#one {color:red}
+#two {color:blue}
+#three {color: green}
+
+#four {font-size: 40px}
+#five {font-size: 10px}
+
+#six {text-align: center}
+
+#seven {font-weight: bold}
+#eight {font-family: Arial, Helvetica, sans-serif}
+#nine {font-weight:bold; 
+    color: orange; 
+    font-size: 40px}
+
+.styledFont{color:blue; padding: 20px} 
+
+#styledImage {border-radius: 25%; 
+    width: 200px;   
+    border: 50px solid transparent;
+    padding: 10px;
+    border-block-end-color: navy;
+    border-block-start-color: navy;
+    border-left-color: teal;
+    border-right-color: teal;}
